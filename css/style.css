@@ -174,7 +174,9 @@ footer h2, footer p {
     width: 182px;
     height: 182px;
 }
-
+.about-header{
+    margin-bottom: 3.125em;
+}
 /* =================
     media query 
    ================= */
