@@ -122,6 +122,7 @@ footer{
 }
 footer h2, footer p {
     margin: 0;
+    font-size: 0.75em;
 }
 
 /* =================
